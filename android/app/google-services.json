@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "738442769315",
-    "project_id": "fir-project-3f1e3",
-    "storage_bucket": "fir-project-3f1e3.appspot.com"
+    "project_number": "302775695015",
+    "project_id": "bds-demo-project",
+    "storage_bucket": "bds-demo-project.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:738442769315:android:5d2bfeb33e17c56cdce016",
+        "mobilesdk_app_id": "1:302775695015:android:b004ce1e1dccea402ccd82",
         "android_client_info": {
           "package_name": "com.example.demo_app_bds"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCuW4Wy6c8wv9XFDI1wqpz0h9-eQSrVY2c"
+          "current_key": "AIzaSyBVsRHDDhpJijEaJmhqpNI9KixWM61YaCk"
         }
       ],
       "services": {

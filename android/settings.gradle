@@ -23,3 +23,9 @@ plugins {
 }
 
 include ":app"
+
+// def flutterRoot = rootProject.parent.file('flutter')
+// def flutterPath = rootProject.file('../')
+// include ':path_provider_android'
+// project(':path_provider_android').projectDir = new File(flutterPath, 'path_provider_android')
+
